@@ -1,5 +1,5 @@
-# Machine-learning-address-identifier-
-A machine-learning based approach on extracting address information from an unstructured text field.
+# Machine-learning-personal-info-identifier-
+A machine-learning based approach on extracting address & personal information from an unstructured text field.
 
 Automating information retrieval from unstructured text is a recurrent objective for data scientists and data mining projects. 
 The postal address is probably the most common piece of information that can be extracted and anonymized according to business requirements.
